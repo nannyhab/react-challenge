@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Vitest
+# React Challenges Starter Template with CoPilot
 
 A starter template for doing [the React Challenges](https://courses.cs.northwestern.edu/394/guides/quick-react.html) with CoPilot. This template includes React, TypeScript, Vite, and Vitest for testing, as well as starter markdown files for the first three coding tasks. The markdown files are located in the `docs` folder and can be edited to include your app vision and instructions for CoPilot.
 
@@ -84,10 +84,6 @@ your-app-name
 ├── tsconfig.node.json
 ├── vite.config.ts
 ```
-
-## Issues
-
-Using TypeScript 5 and ESlint 9 until typescript-eslint and react hook plugins support TS 6 and ESL 10.
 
 ## Credits
 
