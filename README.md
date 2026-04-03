@@ -1,3 +1,9 @@
+#Important sites: 
+#react-challenge: https://courses.cs.northwestern.edu/394/guides/quick-react.html#set-up
+#report: https://docs.google.com/document/d/1Qsg98orxdwsIzj9WnRj5aPDPc0Jqb2tJyn2NEu4MZgU/edit?tab=t.0#heading=h.bmrtiwdc2qde
+#developer report: https://docs.google.com/spreadsheets/d/1hyUH_LRUV73IHoJuFCuvdN5ZyC4bVo46WpXeaC_5IXw/edit?gid=1992283199#gid=1992283199
+
+
 # React Challenges Starter Template with CoPilot
 
 A starter template for doing [the React Challenges](https://courses.cs.northwestern.edu/394/guides/quick-react.html) with CoPilot. This template includes React, TypeScript, Vite, and Vitest for testing, as well as starter markdown files for the first three coding tasks. The markdown files are located in the `docs` folder and can be edited to include your app vision and instructions for CoPilot.
